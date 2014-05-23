@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Nelm\\SoapBundle": ""
+            "Nelm\\":""
         }
     },
     "target-dir": "Nelm/SoapBundle"
